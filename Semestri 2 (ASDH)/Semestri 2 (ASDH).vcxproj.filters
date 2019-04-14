@@ -114,5 +114,11 @@
     <ClCompile Include="Source6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\Algoritmet-dhe-Strukturat-e-te-Dhenave\ASDH\qyteti.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\Algoritmet-dhe-Strukturat-e-te-Dhenave\ASDH\studenti.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

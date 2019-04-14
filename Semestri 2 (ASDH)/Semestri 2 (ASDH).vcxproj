@@ -118,6 +118,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\Desktop\Algoritmet-dhe-Strukturat-e-te-Dhenave\ASDH\qyteti.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Algoritmet-dhe-Strukturat-e-te-Dhenave\ASDH\studenti.cpp" />
     <ClCompile Include="adresate e vargut.cpp" />
     <ClCompile Include="bin dex stack.cpp" />
     <ClCompile Include="clasa aray.cpp" />
