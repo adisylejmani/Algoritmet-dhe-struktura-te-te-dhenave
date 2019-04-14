@@ -1,0 +1,4 @@
+﻿  Source6.cpp
+c:\users\pc\source\repos\semestri 2 (asdh)\semestri 2 (asdh)\source6.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pc\source\repos\semestri 2 (asdh)\semestri 2 (asdh)\source6.cpp(52): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Semestri 2 (ASDH).vcxproj -> C:\Users\PC\source\repos\Semestri 2 (ASDH)\Debug\Semestri 2 (ASDH).exe
